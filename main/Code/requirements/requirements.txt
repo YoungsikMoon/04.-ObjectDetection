@@ -1,7 +1,7 @@
 # Python 3.12; install in a fresh virtual environment.
 altgraph==0.17.4
 asttokens==2.4.1
-certifi==2026.7.22
+certifi==2026.10.19
 charset-normalizer==3.3.2
 colorama==0.4.6
 comm==0.2.2
@@ -12,11 +12,11 @@ decorator==5.1.1
 defusedxml==0.7.1
 exceptiongroup==1.2.0
 executing==2.0.1
-filelock==3.32.6
+filelock==4.2.4
 fonttools==4.65.0
 fsspec==2026.6.0
 gitdb==4.0.11
-GitPython==3.1.62
+GitPython==3.2.1
 idna==3.19
 importlib_metadata==7.1.0
 intel-openmp==2021.4.0; sys_platform == "win32"
@@ -42,7 +42,7 @@ pandas==2.2.2
 parso==0.8.4
 pefile==2023.2.7; sys_platform == "win32"
 pickleshare==0.7.5
-pillow==12.3.0
+pillow==13.0.0
 platformdirs==4.2.2
 prompt_toolkit==3.0.47
 psutil==5.9.8
